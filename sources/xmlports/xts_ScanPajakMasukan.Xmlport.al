@@ -4,13 +4,13 @@ xmlport 50000 xts_ScanPajakMasukan
     {
         textelement(NodeName1)
         {
-            tableelement(NodeName2; SourceTableName)
-            {
-                fieldattribute(NodeName3; NodeName2.SourceFieldName)
-                {
+            // tableelement(NodeName2; SourceTableName)
+            // {
+            //     fieldattribute(NodeName3; NodeName2.SourceFieldName)
+            //     {
 
-                }
-            }
+            //     }
+            // }
         }
     }
 
@@ -22,10 +22,10 @@ xmlport 50000 xts_ScanPajakMasukan
             {
                 group(GroupName)
                 {
-                    field(Name; SourceExpression)
-                    {
+                    // field(Name; SourceExpression)
+                    // {
 
-                    }
+                    // }
                 }
             }
         }

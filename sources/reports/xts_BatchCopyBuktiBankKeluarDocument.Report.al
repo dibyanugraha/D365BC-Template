@@ -7,12 +7,12 @@ report 50001 MyReport
 
     dataset
     {
-        dataitem(DataItemName; SourceTableName)
+        dataitem(DataItemName; xts_BuktiBankKeluarHeader)
         {
-            column(ColumnName; SourceFieldName)
-            {
+            // column(ColumnName; SourceFieldName)
+            // {
 
-            }
+            // }
         }
     }
 
@@ -24,11 +24,10 @@ report 50001 MyReport
             {
                 group(GroupName)
                 {
-                    field(Name; SourceExpression)
-                    {
-                        ApplicationArea = All;
-
-                    }
+                    // field(Name; SourceExpression)
+                    // {
+                    //     ApplicationArea = All;
+                    // }
                 }
             }
         }

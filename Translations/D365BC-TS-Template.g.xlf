@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="D365BC-TS-Template">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 75383520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bukti Bank Keluar Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table xts_BuktiBankKeluarHeader - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 75383520 - Field 949215307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table xts_BuktiBankKeluarHeader - Field No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1285253611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bukti Bank Keluar List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page xts_BuktiBankKeluarList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2858589782 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Copy Bukti Bank Keluar Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MyReport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 61298168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printout Bukti Bank Keluar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report xts_PrintoutBuktiBankKeluar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2610285623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Received Not Invoiced Sales Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query xts_RcvdNotInvoicedSalesOrder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1574771387 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Customer Card Ext.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension xts_CustomerCardExt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2699955647 - Field 888694011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>NamaField</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension xts_CustomerExt - Field NamaField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 2862968331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kasir Bukti Bank Keluar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile xts_KasirBuktiBankKeluar - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 2862968331 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profile Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile xts_KasirBuktiBankKeluar - Property ProfileDescription</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

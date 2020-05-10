@@ -4,7 +4,7 @@ page 50000 xts_BuktiBankKeluarList
     PageType = List;
     ApplicationArea = All;
     UsageCategory = Lists;
-    SourceTable = "Item Journal";
+    SourceTable = "Item Journal Line";
 
     layout
     {

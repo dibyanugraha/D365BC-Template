@@ -26,11 +26,10 @@ report 50000 xts_PrintoutBuktiBankKeluar
             {
                 group(GroupName)
                 {
-                    field(Name; SourceExpression)
-                    {
-                        ApplicationArea = All;
-
-                    }
+                    // field(Name; SourceExpression)
+                    // {
+                    //     ApplicationArea = All;
+                    // }
                 }
             }
         }
