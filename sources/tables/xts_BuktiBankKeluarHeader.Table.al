@@ -8,10 +8,12 @@ table 50000 xts_BuktiBankKeluarHeader
 
     fields
     {
+        // penamaan field mengikuti standard SQL, tanpa spasi, tanpa huruf khusus
         field(1; No; Code[20])
         {
+            // caption dari field bisa menggunakan spasi maupun huruf khusus
+            Caption = 'No.';
             DataClassification = CustomerContent;
-
         }
     }
 

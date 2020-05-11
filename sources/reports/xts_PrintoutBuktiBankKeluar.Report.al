@@ -3,7 +3,7 @@ report 50000 xts_PrintoutBuktiBankKeluar
     Caption = 'Printout Bukti Bank Keluar';
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
-    RDLCLayout = '.\sources\reports\layouts\xts_PrintoutBuktiBankKeluar.rdlc';
+    RDLCLayout = '.\sources\reports\layouts\xts_PrintoutBuktiBankKeluar.rdl';
     WordLayout = '.\sources\reports\layouts\xts_PrintoutBuktiBankKeluar.docx';
     DefaultLayout = RDLC;
 

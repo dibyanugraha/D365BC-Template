@@ -1,10 +1,10 @@
 {
   "id": "47bd7528-eae8-4f4a-a356-2424af60387f",
-  "name": "D365BC-TS-Template",
+  "name": "Purchase Request Module",
   "publisher": "Technosoft Consulting",
   "version": "1.0.0.0",
-  "brief": "Template untuk custom Dynamics 365 Business Central",
-  "description": "Template untuk custom Dynamics 365 Business Central",
+  "brief": "Purchase Reqeust module untuk Dynamics 365 Business Central",
+  "description": "Purchase Request module untuk Dynamics 365 Business Central",
   "privacyStatement": "",
   "EULA": "",
   "help": "",

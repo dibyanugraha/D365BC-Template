@@ -1,4 +1,4 @@
-report 50001 MyReport
+report 50001 xts_BatchCopyBBKDoc
 {
     Caption = 'Batch Copy Bukti Bank Keluar Document';
     UsageCategory = ReportsAndAnalysis;
